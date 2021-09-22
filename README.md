@@ -1,6 +1,6 @@
-# WebRTC libraries for Android
+# [Unofficial] WebRTC libraries for Android
 
-このリポジトリは時雨堂がビルドした libwebrtc.aar ファイルを公開しています。
+このリポジトリは soudegesu がビルドした libwebrtc.aar ファイルを公開しています。個人で作成している非公式なビルドです。
 おもに [WebRTC SFU Sora](https://sora.shiguredo.jp) Android SDK 向けに利用することを想定していますが、その限りでは有りません。
 
 利用方法の例は [Sora Android SDK のドキュメント](https://sora-android-sdk.shiguredo.jp/) をご覧ください。
