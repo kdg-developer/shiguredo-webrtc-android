@@ -9,6 +9,18 @@
 - FIX
     - バグ修正
 
+# 96.4664.2.1
+
+- https://github.com/shiguredo-webrtc-build/webrtc-build/releases/download/m96.4664.2.1/webrtc.android.tar.gz
+
+# 96.4664.2.0
+
+- https://github.com/shiguredo-webrtc-build/webrtc-build/releases/download/m96.4664.2.0/webrtc.android.tar.gz
+
+# 93.4577.8.2
+
+- https://github.com/shiguredo-webrtc-build/webrtc-build/releases/download/m93.4577.8.2/webrtc.android.tar.gz
+
 # 92.4515.9.1
 
 - https://github.com/shiguredo-webrtc-build/webrtc-build/releases/download/m92.4515.9.1/webrtc.android.tar.gz のファイルを GitHub の releases にアップした
